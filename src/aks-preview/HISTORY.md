@@ -2,6 +2,9 @@
 
 Release History
 ===============
+0.4.52
++++++
+* Add "--enable-azure-rbac" for enabling Azure RBAC for Kubernetes authorization
 
 0.4.51
 +++++
